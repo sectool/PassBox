@@ -7,5 +7,6 @@ Password Management Control Panel
 
 #### Development Tools :
 
-*Java SDK
-*NetBeans IDE
+* Java SDK
+
+* NetBeans IDE
